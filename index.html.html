@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Déjà vu Market Research Visual Pack</title>
+  <style>
+    body { margin:0; font-family: Aptos, Arial, sans-serif; background:#f7f4ef; color:#222222; }
+    header { background:#15212B; color:white; padding:28px 42px; }
+    h1 { margin:0; font-size:32px; }
+    header p { margin:8px 0 0; color:#d7dde4; }
+    .wrap { max-width:1180px; margin:0 auto; padding:28px; }
+    .cards { display:grid; grid-template-columns:repeat(4,1fr); gap:16px; margin-bottom:20px; }
+    .card { background:white; border:1px solid #D8DEE5; border-radius:12px; padding:18px; box-shadow:0 8px 24px rgba(21,33,43,.06); }
+    .num { font-size:28px; font-weight:800; color:#1F5F74; }
+    .label { font-weight:700; margin-top:8px; }
+    .note { color:#667085; font-size:13px; margin-top:6px; line-height:1.35; }
+    .grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+    .viz { background:white; border:1px solid #D8DEE5; border-radius:12px; padding:10px; box-shadow:0 8px 24px rgba(21,33,43,.06); }
+    .viz img { width:100%; height:auto; display:block; }
+    .wide { grid-column:1 / -1; }
+    .insights { background:white; border-radius:12px; border:1px solid #D8DEE5; padding:22px 26px; margin-top:18px; }
+    table { width:100%; border-collapse:collapse; font-size:14px; line-height:1.4; }
+    th { background:#15212B; color:white; text-align:left; padding:12px; }
+    td { border:1px solid #D8DEE5; padding:12px; vertical-align:top; background:white; }
+    tr:nth-child(even) td { background:#F7FBFA; }
+    .insights h2 { margin-top:0; color:#15212B; }
+    li { margin:9px 0; line-height:1.45; }
+    @media (max-width: 900px) { .cards,.grid { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Déjà vu Market Research Visual Pack</h1>
+    <p>Quantitative visual summary for early-stage validation | 18 responses / 1 survey source | Percent-based view</p>
+  </header>
+  <div class="wrap">
+    <section class="cards">
+      <div class="card"><div class="num">88.9%</div><div class="label">Donation default</div><div class="note">Donation is the easiest fallback when selling feels too hard.</div></div>
+      <div class="card"><div class="num">83.3%</div><div class="label">Effort changes behaviour</div><div class="note">Selling friction pushes people to keep or donate instead.</div></div>
+      <div class="card"><div class="num">77.8%</div><div class="label">Clear-out friction</div><div class="note">Many have delayed piles of clothing waiting at home.</div></div>
+      <div class="card"><div class="num">68.8%</div><div class="label">Commission-first signal</div><div class="note">Commission-only is the lowest-risk model to test first.</div></div>
+    </section>
+    <section class="grid">
+      <div class="viz"><img src="01_current_behaviour_bar.svg" alt="Current behaviour bar chart" /></div>
+      <div class="viz"><img src="02_pain_points_lollipop.svg" alt="Pain points lollipop chart" /></div>
+      <div class="viz"><img src="03_payment_model_bar.svg" alt="Payment model bar chart" /></div>
+      <div class="viz"><img src="04_service_value_radar.svg" alt="Service value radar chart" /></div>
+      <div class="viz"><img src="05_buyer_trust_bar.svg" alt="Buyer trust bar chart" /></div>
+      <div class="viz"><img src="06_opportunity_funnel.svg" alt="Opportunity signal funnel" /></div>
+      <div class="viz wide">
+        <h2 style="margin:16px 22px 4px;color:#15212B;">Evidence-Backed Seller Policy & Pricing Implications</h2>
+        <p style="margin:0 22px 16px;color:#667085;">This table separates survey evidence from business interpretation. Percentages come from the original survey export.</p>
+        <table>
+          <thead><tr><th>Area</th><th>Survey evidence</th><th>Business implication</th></tr></thead>
+          <tbody>
+            <tr><td><strong>Seller acceptance policy</strong></td><td>Time required 50%; shipping/delivery 38.9%; low return on effort 38.9%</td><td>Create clear accepted-condition and resale-value criteria so Déjà vu does not spend operating time on items that are unlikely to sell.</td></tr><tr><td><strong>Pricing model</strong></td><td>Commission-only 68.8%; upfront service fee 37.5%; small fee + commission 18.8%; per-item membership 6.3%</td><td>Commission-only is the strongest selected pricing signal. Per-item membership has a weaker early signal, so it should be tested carefully against commission-first and package options.</td></tr><tr><td><strong>Service design</strong></td><td>Saving time 62.5%; collection/drop-off 56.3%; packing/shipping 43.8%; buyer messages 37.5%</td><td>Prioritise operational convenience: collection, listing support, packing/shipping, and buyer communication.</td></tr><tr><td><strong>Buyer trust</strong></td><td>Condition 76.5%; trust in seller/platform 52.9%; accurate sizing 47.1%</td><td>Use professional presentation to build trust: condition grading, accurate sizing, clear photos, and reliable platform standards.</td></tr><tr><td><strong>Behavioural opportunity</strong></td><td>Donate 88.9%; sell online 33.3%; keep clothes 16.7%</td><td>The opportunity is converting donation/keeping behaviour into managed resale when convenience and expected return are clear.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+    <section class="insights">
+      <h2>Business Insights</h2>
+      <ul>
+        <li><strong>Behaviour:</strong> donation is the dominant default behaviour, while selling online is lower. This suggests resale loses to convenience, not necessarily lack of interest.</li>
+        <li><strong>Pain points:</strong> time, shipping/delivery, and low return on effort are the strongest friction points. Déjà vu should position itself around effort removal and better outcomes.</li>
+        <li><strong>Payment model:</strong> commission-only is the strongest selected pricing signal. Per-item membership has a weaker early signal, so it should be tested carefully against commission-first and package options.</li>
+        <li><strong>Seller policy:</strong> the model needs pre-screening, clean/condition standards, resale-value criteria, and clear rules for rejected or unsold items to avoid operational cost waste.</li>
+        <li><strong>Buyer-side implication:</strong> trust depends on condition, seller/platform credibility, accurate sizing, price, and clear photos. Aesthetic presentation helps, but should support trust rather than replace it.</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
