@@ -1,0 +1,54 @@
+<svg width="820" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 820 480">
+<rect width="820" height="480" x="0" y="0" fill="#FFFFFF"></rect>
+<path d="M410 238.8L384 253.8L384 283.8L410 298.8L436 283.8L436 253.8L410 238.8L410 268.8ZM410 178.8L332.1 223.8L332.1 313.8L410 358.8L487.9 313.8L487.9 223.8L410 178.8L410 208.8L462 238.8L462 298.8L410 328.8L358 298.8L358 238.8L410 208.8ZM410 118.8L280.1 193.8L280.1 343.8L410 418.8L539.9 343.8L539.9 193.8L410 118.8L410 148.8L513.9 208.8L513.9 328.8L410 388.8L306.1 328.8L306.1 208.8L410 148.8Z" fill="#FFFFFF" class="zr3-cls-22"></path>
+<path d="M410 208.8L358 238.8L358 298.8L410 328.8L462 298.8L462 238.8L410 208.8L410 238.8L436 253.8L436 283.8L410 298.8L384 283.8L384 253.8L410 238.8ZM410 148.8L306.1 208.8L306.1 328.8L410 388.8L513.9 328.8L513.9 208.8L410 148.8L410 178.8L487.9 223.8L487.9 313.8L410 358.8L332.1 313.8L332.1 223.8L410 178.8Z" fill="#F7FBFA" class="zr3-cls-22"></path>
+<path d="M410 268.8M410 238.8L384 253.8L384 283.8L410 298.8L436 283.8L436 253.8L410 238.8M410 208.8L358 238.8L358 298.8L410 328.8L462 298.8L462 238.8L410 208.8M410 178.8L332.1 223.8L332.1 313.8L410 358.8L487.9 313.8L487.9 223.8L410 178.8M410 148.8L306.1 208.8L306.1 328.8L410 388.8L513.9 328.8L513.9 208.8L410 148.8M410 118.8L280.1 193.8L280.1 343.8L410 418.8L539.9 343.8L539.9 193.8L410 118.8" fill="none" pointer-events="visible" stroke="#E7EAF0" class="zr3-cls-22"></path>
+<path d="M410.5 268.8L410.5 118.8" fill="none" pointer-events="visible" stroke="#bbb" stroke-linecap="round" class="zr3-cls-22"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Microsoft YaHei;" xml:space="preserve" y="-6" transform="translate(410 103.8)" fill="#222222">Saving time</text>
+<path d="M410 268.8L280.1 193.8" fill="none" pointer-events="visible" stroke="#bbb" stroke-linecap="round" class="zr3-cls-22"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Microsoft YaHei;" xml:space="preserve" transform="translate(267.1058 186.3)" fill="#222222">Collection / drop-off</text>
+<path d="M410 268.8L280.1 343.8" fill="none" pointer-events="visible" stroke="#bbb" stroke-linecap="round" class="zr3-cls-22"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Microsoft YaHei;" xml:space="preserve" transform="translate(267.1058 351.3)" fill="#222222">Packing / shipping</text>
+<path d="M410.5 268.8L410.5 418.8" fill="none" pointer-events="visible" stroke="#bbb" stroke-linecap="round" class="zr3-cls-22"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Microsoft YaHei;" xml:space="preserve" y="6" transform="translate(410 433.8)" fill="#222222">Managing buyer messages</text>
+<path d="M410 268.8L539.9 343.8" fill="none" pointer-events="visible" stroke="#bbb" stroke-linecap="round" class="zr3-cls-22"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;" xml:space="preserve" transform="translate(552.8942 351.3)" fill="#222222">Pricing support</text>
+<path d="M410 268.8L539.9 193.8" fill="none" pointer-events="visible" stroke="#bbb" stroke-linecap="round" class="zr3-cls-22"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;" xml:space="preserve" transform="translate(552.8942 186.3)" fill="#222222">Uploading listings</text>
+<path d="M410 151.6L318.6 216L338.9 309.9L410 339.1L460.8 298.1L460.8 239.5L410 151.6" fill="none" pointer-events="visible" stroke="#2F7D7B" stroke-width="3" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr3-cls-23"></path>
+<path d="M410 151.6L318.6 216L338.9 309.9L410 339.1L460.8 298.1L460.8 239.5L410 151.6Z" fill="rgb(47,125,123)" fill-opacity="0.13999999999999999" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr3-cls-24"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,410,151.6125)" fill="#2F7D7B" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr3-cls-25"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,318.5802,216.0188)" fill="#2F7D7B" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr3-cls-25"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,338.8777,309.8625)" fill="#2F7D7B" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr3-cls-25"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,410,339.1125)" fill="#2F7D7B" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr3-cls-25"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,460.8249,298.1438)" fill="#2F7D7B" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr3-cls-25"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,460.8249,239.4563)" fill="#2F7D7B" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr3-cls-25"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Microsoft YaHei;" y="-6" transform="translate(410 142.6125)" fill="#222222">62.5%</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Microsoft YaHei;" y="-6" transform="translate(318.5802 207.0187)" fill="#222222">56.3%</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Microsoft YaHei;" y="-6" transform="translate(338.8777 300.8625)" fill="#222222">43.8%</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Microsoft YaHei;" y="-6" transform="translate(410 330.1125)" fill="#222222">37.5%</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Microsoft YaHei;" y="-6" transform="translate(460.8249 289.1438)" fill="#222222">31.3%</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Microsoft YaHei;" y="-6" transform="translate(460.8249 230.4563)" fill="#222222">31.3%</text>
+<path d="M-5 -5l375.9 0l0 52l-375.9 0Z" transform="translate(21 17)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr3-cls-22"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:20px;font-family:Microsoft YaHei;font-weight:700;" xml:space="preserve" y="10" transform="translate(21 17)" fill="#15212B">Managed Service Value Drivers</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;" xml:space="preserve" y="36" transform="translate(21 17)" fill="#667085">The strongest value is operational convenience, not aesthetics alone</text>
+<style ><![CDATA[
+.zr3-cls-22:hover {
+pointer-events:none;
+}
+.zr3-cls-23:hover {
+cursor:pointer;
+}
+.zr3-cls-24:hover {
+cursor:pointer;
+fill:rgba(51,137,135,0.2);
+}
+.zr3-cls-25:hover {
+cursor:pointer;
+fill:rgba(51,137,135,1);
+}
+
+]]>
+
+</style>
+</svg>
